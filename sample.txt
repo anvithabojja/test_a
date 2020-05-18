@@ -1,0 +1,1 @@
+echo "Anvitha Sample Image test creation"
